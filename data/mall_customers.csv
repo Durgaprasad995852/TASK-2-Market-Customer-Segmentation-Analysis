@@ -1,0 +1,16 @@
+CustomerID,Customer Name,Gender,Age,Annual Income (₹),Spending Score
+1,Aarav Sharma,Male,19,"₹1,20,000",39
+2,Ananya Verma,Female,21,"₹2,40,000",81
+3,Rohan Mehta,Male,20,"₹3,60,000",6
+4,Priya Iyer,Female,23,"₹4,50,000",77
+5,Kabir Singh,Male,31,"₹5,80,000",40
+6,Anjali Gupta,Female,32,"₹9,00,000",60
+7,Rohit Patel,Male,26,"₹5,00,000",85
+8,Neha Sharma,Female,29,"₹7,50,000",70
+9,Vikram Rao,Male,38,"₹14,00,000",25
+10,Pooja Nair,Female,24,"₹4,50,000",88
+11,Arjun Mehta,Male,41,"₹10,00,000",30
+12,Kavya Iyer,Female,27,"₹5,50,000",82
+13,Rakesh Yadav,Male,33,"₹7,00,000",65
+14,Divya Joshi,Female,31,"₹8,00,000",58
+15,Manoj Das,Male,50,"₹16,00,000",20
