@@ -52,7 +52,14 @@ python src/main.py
 - `outputs/kmeans_model.pkl`
 
 ## Output images
-<img width="1920" height="1011" alt="image" src="https://github.com/user-attachments/assets/b94b8507-634f-44e8-8284-8bf59b358b36" />
+<img width="1920" height="1073" alt="image" src="https://github.com/user-attachments/assets/e435dfcc-12f4-4b3d-a087-3ceab948f73e" />
+<img width="1920" height="1178" alt="image" src="https://github.com/user-attachments/assets/12daf29f-0c95-4745-a154-f0b488071326" />
+<img width="1920" height="1473" alt="image" src="https://github.com/user-attachments/assets/6625bbe5-5f09-4c70-b547-9dd443720da1" />
+<img width="1920" height="1253" alt="image" src="https://github.com/user-attachments/assets/f2d00781-cf40-4ffe-a8ce-3f7ba945f5ec" />
+
+
+
+
 
 
 ## Dataset format
